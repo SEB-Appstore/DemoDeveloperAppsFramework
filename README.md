@@ -1,4 +1,4 @@
-iOS framework for developers to present their apps.
+iOS framework for developers to present their apps: More Apps
 
 
 Very easy to use: just enter your developer ID and the framework display all your apps on sale on the AppStore.
