@@ -7,8 +7,9 @@
 //
 
 #import <UIKit/UIKit.h>
+#import <SEBDeveloperApps/SEBMoreAppsViewController.h>
 
-@interface ViewController : UIViewController
+@interface ViewController : SEBMoreAppsViewController
 
 
 @end

@@ -1,0 +1,159 @@
+/*
+ Localizable.strings
+ VideoRecorder
+ 
+ Created by SEB on 1/26/16.
+ 
+ */
+"Edit"="Editer";
+"Edit video"="Editer la video";
+"Play audio"="Utiliser l'audio";
+"Mute"="Enlever l'audio";
+"Live Editor"="Live Editeur";
+"Importing Live Photo..."="Importation de la Live Photo...";
+
+"Making Live Photo..."="Creation de la Live Photo...";
+"Error creating Live Photo"="Erreur lors de la creation de la Live Photo";
+"Save as Photo"="Enregistrer photo";
+"Save as Video"="Enregistrer video";
+"Saved as photo"="Photo enregistree dans la Pellicule";
+"Saved as video"="Video enregistree dans la Pellicule";
+"None"="Original";
+"Editor"="Editeur";
+"Filters"="Filtres";
+"Applying filter..."="Application du filtre...";
+
+"CILinearToSRGBToneCurve"="Curve";
+"CIPhotoEffectChrome"="Chrome";
+"CIPhotoEffectFade"="Fade";
+"CIPhotoEffectInstant"="Instant";
+"CIPhotoEffectProcess"="Process";
+"CIPhotoEffectTransfer"="Transfer";
+"CISRGBToneCurveToLinear"="Tone";
+"CIPhotoEffectMono"="Mono";
+"CIPhotoEffectNoir"="Noir";
+"CIPhotoEffectTonal"="Tonal";
+"CIColorMonochrome"="Ocre";
+
+"Loading AppStore..."="Connexion a l'AppStore...";
+"Purchase Title"="In-App";
+"Restoring Purchases..."="Restauration des achats...";
+"Restore"="Restaurer";
+"Purchase"="Acheter";
+"Pro Version Restored"="Version Pro restauree";
+"No Purchase to Restore"="Aucun achat a restaure";
+"Purchasing..."="Achat en cours...";
+
+"info"="Information";
+"infoLive"="Touche la Live Photo pour l'animer";
+"Purchase Pro Version"="Acheter la Version Pro";
+"Pro Version"="Version Pro";
+
+
+//search api
+"share"="partager ";
+"save"="sauver";
+"capture"="capturer";
+"record"="enregistrer";
+"for"="pour";
+"all"="tous";
+"searchDescription"="Partage tes Live Photos par email";
+
+//settins
+"Settings"="Reglages";
+"Minimum duration"="Duree Live";
+"Rate app"="Note l'app";
+"Share app"="Parle de Live Editeur";
+"More Apps"="Plus d'Apps";
+"Rate on store"="Note l'app sur l'AppStore";
+"Spread word"="Passe le mot a propos de Live";
+"Check apps"="Checke nos autres Apps";
+"Contact Us"="Contacte Nous";
+"Ask Question"="Pose une Question";
+"Report a Bug"="Reporte un Bug";
+"Send a Suggestion"="Envoie une Suggestion";
+"Cancel"="Annuler";
+
+"EmailTextQuestion"="Quelle est ta question?";
+"EmailTextBug"="Detaille quel est ton probleme et comment le reproduire:";
+"EmailTextSuggestion"="As tu une suggestion pour ameliorer l'app?";
+"Try App"="Jette un oeil a cette app";
+"EmailTextTryApp"="Edite tes Live Photos avec <a href=\"https://itunes.apple.com/fr/app/id1078552743?ls=1&mt=8\">Live Editeur</a>";
+
+
+"EmailSaved"="Email sauvegarde";
+"EmailSavedText"="L'email a ete sauvegarde dans ta boite email.";
+"EmailSent"="Email envoye";
+"EmailSentText"="L'email a ete envoye.";
+"MailError"="Erreur";
+"MailErrorText"="Une erreur est survenue. Re-essaye plutard.";
+
+
+//Table
+"Delete Live Photos?"="Effacer les Live Photos?";
+"Delete Live Photo?"="Effacer la Live Photo?";
+"Delete"="Effacer";
+"Preparing email..."="Preparation de l'Email...";
+"Saving..."="Sauvegarde...";
+"Error saving"="Une erreur est survenue pendant l'enregistrement de la Live Photo dans la pellicule";
+"Photos saved"="Live Photos sauvegardees dans la Pellicule";
+"Photo saved"="Live Photo sauvegardee dans la Pellicule";
+"Gallery"="Galerie";
+
+
+//Gallery
+"Send by Email"="Envoyer par Email";
+"Save in Camera Roll"="Enregistrer Live Photo";
+"Export to other Apps"="Exporter vers d'autres Apps";
+
+"EmailText"="Edite tes Live Photos avec 'Live Editeur'";
+"EmailTextLiveViewer"="Vois et enregistre cette Live Photo avec 'Live Viewer'";
+"EmailTextLiveShare"="Ouvre ce fichier avec 'Live', 'Live Editeur' et 'Live Share' pour voir et enregistrer cette Live Photo";
+//More apps
+
+"Chromakey Camera"="Incrustation";
+"chromakeyDescription"="Essaie la seule app qui permet de faire de l'incrustation en temps reel pour capturer des photos et videos incroyables. Utilise un des 50 backgrounds embarques pour te placer n'importe ou dans le monde, ou utilise tes propres photos et videos pour creer des effets extraordinaires";
+
+"downPlayerDescription"="Joue toutes tes vidéos et musiques sans les convertir ! DownPlayer peut lire tous les formats de vidéo (avi, mkv, divx, flv, swf, wmv...) et tous les formats de musique (mp3, flac, m4a, caf, wav, aac...) que tu peux rencontrer sur internet. Arrête de perdre du temps a convertir tes vidéos avant de les regarder sur ton iPhone, et essaie DownPlayer.";
+"playThemAllDescription"="Joue toutes tes vidéos et musiques sans les convertir ! Play Them All peut lire tous les formats de vidéo (avi, mkv, divx, flv, swf, wmv...) et tous les formats de musique (mp3, flac, m4a, caf, wav, aac...) que tu peux rencontrer sur internet. Arrête de perdre du temps a convertir tes vidéos avant de les regarder sur ton iPhone, et essaie Play Them All.";
+
+"currencyDescription"="Convertis et suis les taux de changes de plus de 160 devises n'importe ou, n'importe quand. Convertis ta devise favorite et suis tes devises directement depuis la vue 'Aujourd'hui'.";
+"4KDescription"="Fais des videos en 4K et Ultra HD avec ton iPhone et iPad Air 2. Pourquoi tu continues de faire des vidéos en 1080p alors que tu pourrais les faire en 2160p? 4K Recorder pousse les limites de ton iPhone et iPad Air 2 et permet l'enregistrement de vidéos en 4K a 3Gb/min, avec une résolution 8 fois la résolution de la camera full HD: bigger is better!";
+"smartCropDescription"="Découpe tes vidéos comme jamais auparavant ! Smart Crop est la seule app de l'AppStore qui te laisse découper tes vidéos, image par image, pendant que tu les joues: Joue tes vidéos, et déplace et grossis/réduis la zone verte pour sélectionner ce que tu souhaites découper de chaque image de tes vidéos.";
+
+
+"burstHDDescription"="Essaie l'appareil photo en haute résolution le plus rapide de l'AppStore, et prend la photo parfaite a tout les coups ! Tape, ou appuie sur, le bouton shutter pour commencer a prendre des photos a une vitesse incroyable—jusqu’à 120 photos par seconde sur l'iPhone 5S, 60 photos par seconde sur l'iPhone 5, 5S, iPod Touch, iPad Air, iPad Mini Retina, et 30 photos par seconde sur les autres machines.";
+"camControlDescription"="Controle totalement ton appareil photo avec Cam Control. Arrete d'esperer que ton appareil regle correctement la mise au point et l'exposition avec tes tapes, et prend enfin le controle. Cam Control offre 9 modes differents pour faire des photos et videos comme jamais auparavant. En plus, avec Cam Control, tu peux egalement regler manuellement la mise au point, l'exposition, l'ISO, la vitesse du shutter, la temperature de couleur et les teintes des couleurs de ton appareil.";
+
+"airDriveDescription"="Transforme ton iPhone/iPad en un disque dur externe: regarde tes photos, videos, musiques et autres fichiers, et partage les simplement.";
+"popartDescription"="Transforme tes photos et images avec les couleurs d'Andy Warhol et cree ta propre gallerie Pop Art ! Warhol FX est une application Pop Art qui te permet d'appliquer des filtres de couleurs sur tes images et photos et de les transformer en oeuvre Pop Art.";
+"slowlutionDescription"="Slowlution est la solution pour enregistrer d'incroyables vidéos avec des ralentis et des instant replay (ralentis après une action) en temps réel. Appuie simplement sur le bouton \"-\", ou sur le bouton \"R\", pendant un enregistrement, pour créer des ralentis, ou des instant replays, dans tes vidéos.";
+
+"freediskDescription"="Transfère des fichiers entre ton iPhone/iPod/iPad et tes ordinateurs sans iTunes ! Démarre FreeDisk, et ton iDevice est automatiquement transforme en un disque dur externe wifi. Tu peux alors le connecter a tes ordinateurs, et l'utiliser comme un disque dur normal pour facilement transférer tes fichiers. ";
+"bluediskDescription"="Organise, regarde et partage tous tes fichiers en Bluetooth ! Avec BlueDisk, tu peux importer tes photos, vidéos, contacts, pièces jointes de tes emails, et fichiers d'autres apps, et les partager tous en Bluetooth. Tu peux aussi connecter BlueDisk a ton ordinateur, sans iTunes, et l'utiliser comme un disque dur externe pour transférer des fichiers vers/depuis ton iPhone/iPad.";
+"rawDescription"="Capture des photos RAW/Non-compressees avec ton iPhone, iPod et iPad. De plus, tu peux regalement éditer tes photos RAW avec 7 différents effets et filtres, sans perte de qualité. ";
+"mirroredDescription"="Mirrored te permet de creer d'incroyables photos en appliquant differents effets miroirs sur une partie d'une photo, et cela en une simple touche !";
+"unicolorDescription"="Fais des films et photos qui exposent une ou deux couleurs de ton choix pour les faire ressortir, tout en transformant les autres couleurs en noir et blanc, pour creer un effet cinema dramatique ! Pas besoin de peindre ou dessiner, tape simplement la couleur que tu veux ou utilise le slideur.";
+"easyVideoDescription"="Combine autant de vidéos, photos, musiques et textes que tu veux pour créer, facilement et rapidement, tes propres films en Full HD ! La création de film n'a jamais été aussi facile: crée simplement un projet de film, ajoute des vidéos, photos, musiques et textes et vois un aperçu de ton film instantanément. C'est aussi simple que ça ! Avec Easy Video tu peux aussi ajouter des effets ralentis, accélérés et hélium a tes vidéos et musiques !";
+"videoEditorDescription"="Recadrage, extraction, rotation, ralenti, accéléré, effets hélium, réduction de la taille des vidéos…. Tout ce dont tu as besoin pour éditer tes vidéos dans une seule app !";
+"iblendDescription"="Inspire par les calques de Photoshop, iBlend est la seule app qui te permet de mélanger un nombre illimité de photos, textes et dessins pour créer des images incroyables. Cree des projets en mode portrait ou paysage, ajoute autant de calques de photos, de textes et de dessins que tu le souhaites, mélange les avec 18 différents effets, et compose tes propres oeuvres graphiques. ";
+"videoSpeedDescription"="Enregistre d'incroyables videos en slow motion (ralenties) et fast motion (accélérées) avec Video Speed. Appuie simplement sur le bouton ralenti/accéléré pendant un enregistrement, pour creer un effet ralenti/accéléré dans tes videos. ";
+"360Description"="";
+"horizontalDescription"="Horizontal te permet de capturer des videos et photos, qui sont toujours parfaitement horizontal, peut importe comment tu tiens ton iPhone/iPad. Tiens ton iPhone/iPad dans n’importe comment, ou tourne le pendant tes enregistrements, tes videos and photos sont toujours parfaitement horizontales! ";
+"photoTouchesDescription"="Retouche tes photos et transforme les avec seulement quelques touches ! Base sur un concept révolutionnaire, Photo Touches permet d'appliquer différents effets localement ou globalement sur tes photos pour les améliorer et les rendre plus belles.";
+"picBlenderDescription"="Melange et fusionne tes photos avec PicBlender et crees d'incroyables photos. PicBlender est la parfaite app pour ameliorer tes photos, et pour fusionner 2 photos ensemble. ";
+"videoFiltersDescription"="";
+"airCameraDescription"="Air Camera te permet de connecter deux iPhone/iPad/iPad, ou un iPhone/iPad/iPod et un ordinateur Mac, sans fil. Il te sera possible d'envoyer et de recevoir les images de la camera de l'autre appareil, avec en addition la possibilité de changer de camera sur l'appareil distant, d'allumer/éteindre la torche, de régler l’intensité de la torche de l'appareil distant et de prendre des photos a distance. ";
+"instantReplayDescription"="Enregistre d'incroyables videos avec des instant replay (ralentis après une action) avec Instant Replay. Appuie simplement sur le bouton \"R\" pendant un enregistrement, pour créer des instant replays dans tes videos. Importe les videos de ta Pellicule, et édite les avec des instant replays.";
+"videoLoopDescription"="Ajoute des boucles dans tes vidéos, sans perte de définition. De plus, tu peux également changer la vitesse des boucles pour créer des effets incroyables dans tes vidéos ! Choisis une vidéo dans ta Pellicule, sélectionne la partie de la vidéo que tu veux boucler, ajuste éventuellement la vitesse, et le nombre de boucle, et regarde ta vidéo loop instantanément. C’est aussi simple que ça ! ";
+"ilashDescription"="Fouette tout ce qui t'entoure, n'importe où, n'importe quand ! Reproduit le mouvement d'un coup de fouet et entend le fouet claqué ! Effraie ou amuse les gens autour de toi grâce à un son ultra réaliste qui va tous les surprendre ! ";
+"reversorDescription"="Joue en marche arrière toutes tes vidéos, chansons et enregistrement audio sans perte de qualité. Avec ReversoR, tu peux jouer tes vidéos en marche arrière sans perte de qualité.";
+"zipUnzipDescription"="Avec Zip&Unzip tu peux enfin compresser et decompresser tes fichiers n'importe ou directement sur ton iPhone !";
+"oldMoviesDescription"="Transforme rapidement toutes tes vidéos en vieux films directement sur ton iPhone et ton iPad. Avec 6 films, 15 filtres et 16 bandes sonores, Old Movies offre le plus complet set de fonctionnalités pour transformer tes vidéos en vieux films. ";
+"camMirrorsDescription"="Enregistre des photos originales, artistiques et drole avec Cam Mirrors. Cam Mirrors offre tous les effets miroir en temps reel pour capturer des photos uniques. ";
+"watermarkDescription"="Protege tes photos et travaux numeriques avec ton propre watermark avant de les envoyer ou publier! ";
+"whatUpDescription"="WhatUp est une AWESOME app inspiree de la série TV \"How I Met Your Mother\" et specialement par le personnage de Barney Stinson. Dans la série, Barney introduit des lignes de conduite et autres théories parmi lesquelles, la théorie du graphe Folle-Belle (\"crazy-hot scale\")";
+"videoPhotoDescription"="Extrais des photos de tes vidéos et capture les petits instants de n'importe quel grand moment ! Extrêmement simple a utiliser, extrais des vidéos de ta Pellicule, et des vidéos importées via iTunes.";
+"mediaMailDescription"="Avec Media Mail, tu vas enfin pouvoir envoyer plusieurs photos et vidéos dans un seul email ! Fatigué d'envoyer des dizaines d'emails pour partager tes photos? Utilise Media Mail et envoie les toutes en une seule fois ! ";
+"focusMotionDescription"="";
+"quickCallsDescription"="Arrete de perdre du temps pour appeler tes numeros favoris et decouvre QuickCalls ! Avec QuickCalls tu vas pouvoir creer ta propre liste de numeros favoris et pouvoir les appeler en un clin d'oeil! ";

@@ -13,6 +13,9 @@
 		9616A8281D258E11007B9376 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9616A8261D258E11007B9376 /* Main.storyboard */; };
 		9616A82A1D258E11007B9376 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9616A8291D258E11007B9376 /* Assets.xcassets */; };
 		9616A82D1D258E11007B9376 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9616A82B1D258E11007B9376 /* LaunchScreen.storyboard */; };
+		9616A8351D258F6B007B9376 /* SEBDeveloperApps.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9616A8341D258F6B007B9376 /* SEBDeveloperApps.framework */; };
+		9616A8381D258F88007B9376 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 9616A83A1D258F88007B9376 /* Localizable.strings */; };
+		9616A83F1D258FD5007B9376 /* UINavigationController-Rotation.m in Sources */ = {isa = PBXBuildFile; fileRef = 9616A83E1D258FD5007B9376 /* UINavigationController-Rotation.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +29,12 @@
 		9616A8291D258E11007B9376 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9616A82C1D258E11007B9376 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9616A82E1D258E11007B9376 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9616A8341D258F6B007B9376 /* SEBDeveloperApps.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = SEBDeveloperApps.framework; sourceTree = "<group>"; };
+		9616A8391D258F88007B9376 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = Base; path = Base.lproj/Localizable.strings; sourceTree = "<group>"; };
+		9616A83B1D258F8B007B9376 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
+		9616A83C1D258F9D007B9376 /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/Localizable.strings; sourceTree = "<group>"; };
+		9616A83D1D258FD5007B9376 /* UINavigationController-Rotation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UINavigationController-Rotation.h"; sourceTree = "<group>"; };
+		9616A83E1D258FD5007B9376 /* UINavigationController-Rotation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UINavigationController-Rotation.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -33,6 +42,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9616A8351D258F6B007B9376 /* SEBDeveloperApps.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -58,11 +68,15 @@
 		9616A81C1D258E11007B9376 /* DemoDeveloperAppsFramework */ = {
 			isa = PBXGroup;
 			children = (
+				9616A83A1D258F88007B9376 /* Localizable.strings */,
 				9616A8201D258E11007B9376 /* AppDelegate.h */,
 				9616A8211D258E11007B9376 /* AppDelegate.m */,
 				9616A8231D258E11007B9376 /* ViewController.h */,
 				9616A8241D258E11007B9376 /* ViewController.m */,
+				9616A83D1D258FD5007B9376 /* UINavigationController-Rotation.h */,
+				9616A83E1D258FD5007B9376 /* UINavigationController-Rotation.m */,
 				9616A8261D258E11007B9376 /* Main.storyboard */,
+				9616A8341D258F6B007B9376 /* SEBDeveloperApps.framework */,
 				9616A8291D258E11007B9376 /* Assets.xcassets */,
 				9616A82B1D258E11007B9376 /* LaunchScreen.storyboard */,
 				9616A82E1D258E11007B9376 /* Info.plist */,
@@ -120,6 +134,7 @@
 			knownRegions = (
 				en,
 				Base,
+				fr,
 			);
 			mainGroup = 9616A8111D258E11007B9376;
 			productRefGroup = 9616A81B1D258E11007B9376 /* Products */;
@@ -137,6 +152,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9616A82D1D258E11007B9376 /* LaunchScreen.storyboard in Resources */,
+				9616A8381D258F88007B9376 /* Localizable.strings in Resources */,
 				9616A82A1D258E11007B9376 /* Assets.xcassets in Resources */,
 				9616A8281D258E11007B9376 /* Main.storyboard in Resources */,
 			);
@@ -150,6 +166,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9616A8251D258E11007B9376 /* ViewController.m in Sources */,
+				9616A83F1D258FD5007B9376 /* UINavigationController-Rotation.m in Sources */,
 				9616A8221D258E11007B9376 /* AppDelegate.m in Sources */,
 				9616A81F1D258E11007B9376 /* main.m in Sources */,
 			);
@@ -172,6 +189,16 @@
 				9616A82C1D258E11007B9376 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		9616A83A1D258F88007B9376 /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				9616A8391D258F88007B9376 /* Base */,
+				9616A83B1D258F8B007B9376 /* en */,
+				9616A83C1D258F9D007B9376 /* fr */,
+			);
+			name = Localizable.strings;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -214,7 +241,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
@@ -253,7 +280,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -265,6 +292,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/DemoDeveloperAppsFramework",
+				);
 				INFOPLIST_FILE = DemoDeveloperAppsFramework/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.SEB.DemoDeveloperAppsFramework;
@@ -276,6 +307,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/DemoDeveloperAppsFramework",
+				);
 				INFOPLIST_FILE = DemoDeveloperAppsFramework/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.SEB.DemoDeveloperAppsFramework;

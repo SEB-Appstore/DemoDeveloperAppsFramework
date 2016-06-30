@@ -1,0 +1,52 @@
+/* 
+  Localizable.strings
+  DeveloperApps
+
+  Created by SEB on 6/29/16.
+
+*/
+"downPlayerDescription"="Play all your videos and musics without converting them! DownPlayer supports all video formats (avi, mkv, divx, flv, swf, wmv...) and all music formats (mp3, flac, m4a, caf, wav, aac...) you can come across on the internet. Stop wasting your time converting your videos and musics before watching them on your iPhone.";
+"playThemAllDescription"="Play all your videos and musics without converting them ! Play Them All supports all video formats (avi, mkv, divx, flv, swf, wmv...) and all music formats (mp3, flac, m4a, caf, wav, aac...) you can come across on the internet. Stop wasting your time converting your videos and musics before watching them on your iPhone, and try Play Them All.";
+"smartCropDescription"="Crop your videos like never before! Smart Crop is the only app of the AppStore that lets you crop your videos on the fly, frame by frame, while you play them: Play your videos and move and scale the green area to select what you want to crop in each frame of your videos.";
+"Chromakey Camera"="Chromakey Camera";
+"chromakeyDescription"="Try the first real chromakey camera of the AppStore and capture amazing videos and photos with your iPhone and iPad. Use one of the 50 embedded backgrounds to place yourself anywhere in the world, or use your personal videos and photos and create astonishing effects";
+"currencyDescription"="Convert and monitor more than 160 currencies everywhere, anytime. Convert your favorite currency and monitor currencies right from your widgets.";
+
+"4KDescription"="Capture 4K and Ultra HD videos with your iPhone and iPad Air 2. Why do you keep recording 1080p videos whereas you could capture 2160p ones? 4K Recorder is pushing the limits of your iPhone and iPad Air 2, empowering stunning 4K video recording at 3GB/min to capture videos with 8 times the resolution of the full HD camera; bigger is better !";
+
+
+"burstHDDescription"="Try the AppStore’s fastest full resolution camera and always get the perfect shot ! Tap, or Hold, the shutter button to start continuously snapping photos at amazing speed—up to 120 photos per second on iPhone 5S, 60 photos per second on iPhone 5, 5C, iPod Touch, iPad Air, iPad Mini with Retina, and 30 photos per second on the other devices.";
+"camControlDescription"="Cam Control lets you take full control of your camera. Stop hoping your camera will set the focus and exposure correctly and take control. Cam Control offers 9 different modes to capture photos and videos like never before. Moreover, with Cam Control, you can customize the different capture modes, and manually set the focus, shutter speed, ISO, color temperature and tint parameters of your camera.";
+
+"airDriveDescription"="Finally use your iPhone/iPad/iPod as an external hard drive; view and share your photos, videos, musics and other documents on the go.";
+"popartDescription"="Apply the Andy Warhol color effects on your photos and pictures and make your own Pop Art gallery ! Warhol FX is a Pop Art app that lets you create color patterns, save them, and apply them whenever you want on your pictures, photos, and photo camera ! ";
+"slowlutionDescription"="Slowlution is the solution to record amazing slow motion and instant replay videos, in real time. Just hold the (-) button, or R button, while recording videos to create ultra-smooth slow motion and instant replay slow motion effects in your movies. ";
+"freediskDescription"="Transfer files between your iPhone/iPod/iPad and your computers without iTunes ! Just start FreeDisk, and your iDevice is automatically turned into a wifi hard drive. You can then connect your iDevice to your computers, and use it as a regular hard drive, and easily transfer files. ";
+"bluediskDescription"="Organize, see and share all your files in Bluetooth !With BlueDisk, you can import your photos, videos, contacts, mail attachments, and files from other apps, and share them all in Bluetooth.You can also connect BlueDisk to your computer, without iTunes, and use it as an external hard disk to transfer files from/to your iPhone/iPad. ";
+"rawDescription"="Capture RAW/Uncompressed photos with your iPhone, iPod and iPad. Moreover, you can edit your Raw photos on the go with 7 different effects and filters to improve them with no quality loss. ";
+"mirroredDescription"="Mirrored lets you create stunning photos by mirroring a part of a photo in one single touch. Select a photo, or take a new one, select one of the 8 mirror effects, and start having fun!";
+"unicolorDescription"="Capture videos and photos that focus on one or two colors of your choice to make them stand out, while other colors are removed for a dramatic cinematic effect! No painting required, just tap to select the color or use the slider. ";
+"easyVideoDescription"="Merge as many videos, photos, musics and texts as you want to create, simply and quickly, your very own movies in Full HD ! Creating movies has never been so easy: simply create a movie project, add videos, musics, photos and texts into it, and preview your new movie right away. It's that simple ! With Easy Video you can also add slow/fast motion and helium effects to your videos and musics !
+";
+"videoEditorDescription"="Crop, cut, rotate, slow motion, fast motion, helium effects, video size reduction… All you need to edit your videos at full resolution in a single app ! ";
+"iblendDescription"="Inspired by the layer concept of Photoshop, iBlend is the only app that lets you blend an unlimited number of photo layers, text layers and drawing layers together to create amazing pictures. ";
+"videoSpeedDescription"="Record amazing slow and fast motion videos in real time with Video Speed. Just tap and hold the slow, or fast, motion button while recording videos to create an ultra-smooth slow, or fast, motion effects in your movies. ";
+"360Description"="";
+"horizontalDescription"="Horizontal lets you capture photos and videos, that are always horizontal, no matter how you hold your iPhone/iPad. Hold it in any ways or rotate it while recording, the video and photos will always stay horizontal! ";
+"photoTouchesDescription"="Beautify your photos and transform them into into art just in a few touches! Based on a revolutionary concept, Photo Touches lets you add different effects locally and globally on your photos to improve and beautify them. ";
+"picBlenderDescription"="Blend and fusion your photos and pictures with PicBlender and create astonishing photos. PicBlender is the perfect app to improve your photos, and HDR photos, and to fusion 2 differents photos to create astonishing effects. ";
+"videoFiltersDescription"="";
+"airCameraDescription"="Air Camera will allow you to connect two iOS devices, or an iOS device to a Mac computer, wirelessly. You will be able to receive and transmit the camera view with the other device, in addition to switch the remote cameras, control the remote torch and torch intensity, as well as taking picture of the remote scene. ";
+"instantReplayDescription"="Record amazing instant replay videos, in real time with Instant Replay. Just tap and hold the R button while recording videos to create an ultra-smooth instant replay slow motion effects in your movies. Import videos from your camera roll, and edit them with some instant replay effects. ";
+"videoLoopDescription"="Easily add loops in your videos with no definition loss. Moreover, you can also change the loop speeds to create stunning effects in your videos ! Just pick a video in your camera roll, select the part of your video you want to loop, adjust eventually the loop speed and loop number, and preview your looped video right away. It’s that simple !";
+"ilashDescription"="Let's Lash everybody, everything, everywhere ! Reproduce the lash gesture and hear the lash slam ! iLash provides you with a very realistic slam sound that will amaze people around you. ";
+"reversorDescription"="Reverse all your videos, music and voice recordings with no quality loss. With ReversoR, you can play your videos backward with no quality loss. ";
+"zipUnzipDescription"="With Zip&Unzip you'll finally be able to import files from other apps, zip them, unzip them, view them, and share them by email or with other apps. Zip&Unzip lets you unzip any zipped file and see the compressed files.";
+"oldMoviesDescription"="Quickly transform all your videos into Old Movies right on your iPhone and iPad. With 6 films, 15 filters and 16 soundtracks, Old Movies offers the most complete set of features to transform your videos into great old looking movies. ";
+"camMirrorsDescription"="Capture original, artistic and funny photos with Cam Mirrors. Cam Mirrors offers all the mirror effects in real time to capture unique photos. ";
+"watermarkDescription"="Protect your photos and digital works with your own watermark in no time before sending them or publish them! ";
+"whatUpDescription"="WhatUp is an AWESOME app inspired by the TV show \"How I Met Your Mother\" and specially by the character of Barney Stinson. In the show, Barney introduces lines of conduct and other theories among which the \"crazy-hot scale\": when you meet someone you shall find out where she/he fits on the Crazy-Hot scale before pursuing her/him.";
+"videoPhotoDescription"="Extract photos from your videos and capture the small instants in any big moment. Extremely simple to use, extract photos form any of your videos saved in your camera roll, or any videos imported via iTunes";
+"mediaMailDescription"="With Media Mail, you can finally send several photos and videos in a single email ! Bored of sending dozens of emails to share your photos? Use Media Mail and send them all at once !";
+"focusMotionDescription"="";
+"quickCallsDescription"="Stop losing time to call your favorite contacts and start using QuickCalls. QuickCalls is THE app to recreate your phone favorites in a nice interface and to call them in a single touch ! Define your favorite contacts in QuickCalls, organize them, and get them all at a glance ! Touch one of your favorite contacts to call him/her right away ! ";
