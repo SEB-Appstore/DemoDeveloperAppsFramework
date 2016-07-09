@@ -26,6 +26,8 @@
     self.developerID=@"321941181";
     self.contactEmail=@"contact@seb-appstore.com";
     self.title=@"More Apps";
+    self.siteTitle=@"SEB - APPSTORE";
+    self.websiteLink=@"http://www.seb-appstore.com";
     /*
      self.backgroundColor=[UIColor blackColor];
      self.textsColor=[UIColor blueColor];
