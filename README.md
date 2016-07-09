@@ -8,7 +8,7 @@ The project contains the SEBDeveloperApps.framework and a demo showing how to us
 MoreAppsViewController properties:<br>
 @property (nonatomic, strong)NSString* developerID; //developer ID from Apple<br>
 @property (nonatomic, strong)NSString* affiliateIdentifier; //token affiliated<br>
-@property (nonatomic, strong)NSString* contactEmail; //email address to be contacted<br>
+@property (nonatomic, strong)NSString* contactEmail; //developer email address to be contacted<br>
 @property (nonatomic, strong)NSMutableArray* notIncludedApps; //apps that should not been displayed<br>
 @property (nonatomic, strong)NSMutableArray* localLoadingApps; //apps loaded manually in case of no internet connection<br>
 @property (nonatomic, strong)UIColor* backgroundColor; //view backgroud color<br>
