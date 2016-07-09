@@ -5,7 +5,7 @@ Very easy to use: just enter your developer ID and the framework display all you
 
 The project contains the SEBDeveloperApps.framework and a demo showing how to use it.
 
-MoreAppsViewController properties:
+MoreAppsViewController properties:\n
 @property (nonatomic, strong)NSString* developerID; //developer ID from Apple
 @property (nonatomic, strong)NSString* affiliateIdentifier; //token affiliated
 @property (nonatomic, strong)NSString* contactEmail; //email address to be contacted
