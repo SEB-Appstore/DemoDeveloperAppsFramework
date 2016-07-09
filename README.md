@@ -14,3 +14,5 @@ MoreAppsViewController properties:
 @property (nonatomic, strong)UIColor* backgroundColor; //view backgroud color
 @property (nonatomic, strong)UIColor* textsColor; //cell text color
 @property (nonatomic, strong)UIColor* borderColor; //cell border color
+@property (nonatomic, strong)NSString* websiteLink;  //http link to developer website
+@property (nonatomic, strong)NSString* siteTitle; // developer website name
