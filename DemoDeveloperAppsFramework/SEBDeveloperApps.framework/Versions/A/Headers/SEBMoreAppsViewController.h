@@ -19,4 +19,8 @@
 @property (nonatomic, strong)UIColor* backgroundColor;
 @property (nonatomic, strong)UIColor* textsColor;
 @property (nonatomic, strong)UIColor* borderColor;
+
+@property (nonatomic, strong)UIColor* barColor;
+@property (nonatomic)UIBarStyle barStyle;
+@property (nonatomic, strong)UIColor* barTint;
 @end

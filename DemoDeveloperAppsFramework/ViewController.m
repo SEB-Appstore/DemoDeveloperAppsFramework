@@ -28,6 +28,13 @@
     self.title=@"More Apps";
     self.siteTitle=@"SEB - APPSTORE";
     self.websiteLink=@"http://www.seb-appstore.com";
+    
+    UIColor* bleu=[UIColor colorWithRed:26./255. green:93./255. blue:217./255. alpha:1.];
+    self.borderColor=bleu;//[UIColor lightGrayColor];
+    self.barTint=[UIColor whiteColor];
+     self.barColor=bleu;
+    self.barStyle=UIBarStyleDefault;
+    
     /*
      self.backgroundColor=[UIColor blackColor];
      self.textsColor=[UIColor blueColor];

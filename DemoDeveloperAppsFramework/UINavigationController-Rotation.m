@@ -70,6 +70,10 @@
 
 - (void)viewDidLoad
 {
+   NSDictionary *navbarButtonAppearanceDict = @{NSFontAttributeName : [UIFont fontWithName:@"Avenir-Medium" size:18.0], NSForegroundColorAttributeName: [UIColor whiteColor]};
+    [[UINavigationBar appearance] setTitleTextAttributes:navbarButtonAppearanceDict];
+    [[UINavigationBar appearance] setBarStyle:UIBarStyleBlackTranslucent];
+    
     
     [[UIApplication sharedApplication] setStatusBarStyle:UIStatusBarStyleLightContent];
     [super viewDidLoad];
@@ -81,17 +85,13 @@
      [[UINavigationBar appearance] setBarTintColor:bleu];
     [[UINavigationBar appearance] setTintColor:[UIColor whiteColor]];
     
-    NSDictionary *navbarButtonAppearanceDict = @{NSFontAttributeName : [UIFont fontWithName:@"Avenir-Medium" size:18.0], NSForegroundColorAttributeName: [UIColor whiteColor]};
-    [[UINavigationBar appearance] setTitleTextAttributes:navbarButtonAppearanceDict];
-    
+     
     [[UIToolbar appearance] setBarStyle:UIBarStyleDefault];
     [[UIToolbar appearance] setTintColor:[UIColor blueColor]];    
     NSDictionary *barButtonAppearanceDict = @{NSFontAttributeName : [UIFont fontWithName:@"Avenir-Book" size:16.0], NSForegroundColorAttributeName: [UIColor whiteColor]};
     [[UIBarButtonItem appearance] setTitleTextAttributes:barButtonAppearanceDict forState:UIControlStateNormal];
-	// Do any additional setup after loading the view.
-    UIColor* bleuclair=[UIColor colorWithRed:26./255. green:93./255. blue:217./255. alpha:.5];
-    [[UISearchBar appearance] setBarTintColor:bleuclair];
-    [[UISearchBar appearance] setTintColor:[UIColor whiteColor]];
+    
+     
 }
 
 
